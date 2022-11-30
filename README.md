@@ -2,7 +2,7 @@
 
 ## Проекты 
 
-* [Проект: Игра "Угадай число"]()
+* [Проект: Игра "Угадай число"](https://github.com/ZenSerendip/sf_data_science/tree/master/guess-number)
 * [Проект: __________]
 * [Проект: __________]
 
